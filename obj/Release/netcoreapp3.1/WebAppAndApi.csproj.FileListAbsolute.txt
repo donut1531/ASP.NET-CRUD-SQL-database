@@ -1,0 +1,7 @@
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.csprojAssemblyReference.cache
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.AssemblyInfoInputs.cache
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.AssemblyInfo.cs
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.csproj.CoreCompileInputs.cache
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.RazorAssemblyInfo.cache
+C:\Users\IdiapadGaming\source\repos\WebAppAndApi\obj\Release\netcoreapp3.1\WebAppAndApi.RazorAssemblyInfo.cs
